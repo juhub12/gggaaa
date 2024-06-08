@@ -1,4 +1,4 @@
-if game.PlaceId == 16667221376 then
+
     local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
     local Window = OrionLib:MakeWindow({Name = "[ JU HUB ][ 1.0 ]", HidePremium = false, Intro = false, IntroText = "by yesmom555🔥", SaveConfig = true, ConfigFolder = "TutorialConfig"})
     
@@ -141,6 +141,8 @@ PlayerTab:AddButton({
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
     
-    end
+
     
     OrionLib:Init()
+
+    
